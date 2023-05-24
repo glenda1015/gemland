@@ -1,4 +1,4 @@
-# Gemlans
+# Gemland
 Developed a 3D game using Unity
 
 Gameplay:
