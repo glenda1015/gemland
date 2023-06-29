@@ -14,9 +14,8 @@ Establish functionality that will support the upload of a single SARIF file via 
 
 ***Diagram***
 
-![A picture containing text, diagram, plan, line
+![Triage To Storage Lucid Charts](TriageToStorage.png)
 
-Description automatically generated](Aspose.Words.3e91818f-19b6-4abd-9893-99c302c5632b.001.png)
 
 ***Requirements***
 
