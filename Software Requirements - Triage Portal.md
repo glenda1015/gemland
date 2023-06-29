@@ -56,7 +56,7 @@ Description automatically generated](Aspose.Words.3e91818f-19b6-4abd-9893-99c302
 - Fix the edit and add wiki state dropdown for the Wiki tap (Pull request # 77)
   - https://github.com/ossf/omega-triage-portal/pull/77
 - Server should not crash/end after 404 Wiki error (Pull request # 77)
-  - ` `https://github.com/ossf/omega-triage-portal/pull/77
+  - https://github.com/ossf/omega-triage-portal/pull/77
 - Error handling for Closed and Deleted Wiki Status (Pull request # 77) 
   - https://github.com/ossf/omega-triage-portal/pull/77
 - Upload button not working because OSS Gadget could not download the package. Changed to the latest version of the OSS Gadget (Pull request # 77)
