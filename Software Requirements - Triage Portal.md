@@ -49,8 +49,6 @@ Description automatically generated](Aspose.Words.3e91818f-19b6-4abd-9893-99c302
 - In the Wiki page UI, separate the wiki sections into Unresolved Wiki’s (New, Not specified, active) and Resolved Wiki’s (Closed, Resolved)
   - The Resolved Wiki Section should be collapsible. Default should be collapsed.
 
-\***
-
 ***Bugs fixes and additional functionalities implemented.***
 
 - Inside the Tool Defects tap fix error not querying the assigned to me and the active defects (Pull request # 72) 
